@@ -12,7 +12,7 @@ dist/
 # editor
 .vscode/*
 !.vscode/extensions.json
-
+out
 # misc
 .DS_Store
 *.log
